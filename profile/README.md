@@ -2,6 +2,16 @@
 
 A groundbreaking programmable staking framework ensuring every effort is rewarded fairly.
 
+## Join Us in Building Exciting Tutorials!
+
+- [EVM Internals](https://github.com/YoubetDao/evm-internals)
+- [Solana Internals](https://github.com/YoubetDao/solana-internals)
+- [ZKP Notes](https://github.com/YoubetDao/zkp-notes)
+- [Effective Solidity](https://github.com/YoubetDao/EffectiveSolidity)
+- [Notes on Blockchain Technology and Applications by Xiao (2018)](https://github.com/YoubetDao/Blockchain-Technology-and-Application-Notes-2018)
+- [All About Cryptography](https://github.com/wfnuser/all-about-cryptography)
+
+
 ## Hackathon Live Demo
 
 - [SDK in Action](https://37hedj53hqh8y.ahost.marscode.site/)
