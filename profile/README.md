@@ -4,7 +4,7 @@ A groundbreaking programmable staking framework ensuring every effort is rewarde
 
 ## Join Us in Building Exciting Tutorials!
 
-- [EVM Internals](https://github.com/YoubetDao/evm-internals)
+- [Ethereum Smart Contract Guide](https://github.com/YoubetDao/Ethereum-Smart-Contract-Guide)
 - [Solana Internals](https://github.com/YoubetDao/solana-internals)
 - [ZKP Notes](https://github.com/YoubetDao/zkp-notes)
 - [Effective Solidity](https://github.com/YoubetDao/EffectiveSolidity)
