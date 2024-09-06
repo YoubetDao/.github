@@ -3,6 +3,7 @@ A team dedicated to creating fair, transparent, and effective reward systems for
 
 ## Our Products
 - [YouBet-SDK](https://github.com/YoubetDao/youbet-sdk) : A groundbreaking programmable staking framework ensuring every effort is rewarded fairly.
+  - [SDK in Action](https://37hedj53hqh8y.ahost.marscode.site/)
 - [Youbet-Task](https://github.com/YoubetDao/youbet-task) : A cutting-edge platform for automated and fair reward distribution to open source developers based on their contributions.
 
 ## Join Us in Building Exciting Tutorials!
@@ -12,14 +13,6 @@ A team dedicated to creating fair, transparent, and effective reward systems for
 - [ZKP Notes](https://github.com/YoubetDao/zkp-notes)
 - [Effective Solidity](https://github.com/YoubetDao/EffectiveSolidity)
 - [All About Cryptography](https://github.com/wfnuser/all-about-cryptography)
-
-## Hackathon Live Demo
-- [SDK in Action](https://37hedj53hqh8y.ahost.marscode.site/)
-  - Live demonstration of [sample code](https://github.com/YoubetDao/youbet-sdk/tree/main/examples/simple-react) available in our SDK source code. You can run it by yourself.
-- [YouBet Admin](https://youbet-admin.vercel.app/goals)
-  - Admin dashboard with different levels of authority for tourists, Linea wallet holders, and goal creators
-- [YouBet GM](https://youbet-gm.vercel.app/)
-  - An application powered by the [YouBet SDK](https://www.npmjs.com/package/youbet-sdk) designed to help you wake up early and check in
 
 ## Our Vision: Rewarding Every Effort
 At YouBet, we believe that every contribution matters. Whether by building DApps using our SDK or rewarding open-source contributions in Youbet Task, our goal is simple: to reward every effort in the world.
@@ -36,8 +29,6 @@ At YouBet, we believe that every contribution matters. Whether by building DApps
 ## SDK
 - [Quickstart](https://youbetdao.github.io/sdk/quickstart)
 - [Api](https://youbetdao.github.io/sdk/api)
-
-
 
 ## Our Team
 - [微扰理论](https://github.com/wfnuser) - Founder - With great responsibility comes great power.
