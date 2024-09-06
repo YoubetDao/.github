@@ -2,9 +2,9 @@
 A team dedicated to creating fair, transparent, and effective reward systems for every contributions in the world.
 
 ## Our Products
+- [Youbet-Task](https://youbet-linea.netlify.app/) : A cutting-edge platform for automated and fair reward distribution to open source developers based on their contributions.
 - [YouBet-SDK](https://github.com/YoubetDao/youbet-sdk) : A groundbreaking programmable staking framework ensuring every effort is rewarded fairly.
   - [SDK in Action](https://37hedj53hqh8y.ahost.marscode.site/) - Live demonstration of sample code available in our SDK [source code](https://github.com/YoubetDao/youbet-sdk/tree/main/examples/simple-react). You can run it by yourself.
-- [Youbet-Task](https://github.com/YoubetDao/youbet-task) : A cutting-edge platform for automated and fair reward distribution to open source developers based on their contributions.
 
 ## Join Us in Building Exciting Tutorials!
 - [**Notes on Blockchain Technology and Applications by Xiao (2018)**](https://github.com/YoubetDao/Blockchain-Technology-and-Application-Notes-2018) - Newbies Welcome!
