@@ -46,5 +46,6 @@ At YouBet, we believe that every contribution matters. Whether by building DApps
 
 If you’re interested in being part of this mission, feel free to connect with us!  
 Contact us: [@element14_revival](https://t.me/element14_revival) on Telegram.  
+
 Feel free to follow my X account for updates!  [![X Badge](https://img.shields.io/badge/X-wfnuser-blue)](https://www.x.com/wfnuser)
 
