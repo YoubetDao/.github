@@ -40,3 +40,6 @@ Contact us: [@element14_revival](https://t.me/element14_revival) on Telegram.
 
 Feel free to follow my X account for updates!  [![X Badge](https://img.shields.io/badge/X-wfnuser-blue)](https://www.x.com/wfnuser)
 
+## Visitor Count
+![](https://profile-counter.glitch.me/youbetdao/count.svg)
+
