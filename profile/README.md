@@ -6,11 +6,11 @@ A team dedicated to creating fair, transparent, and effective reward systems for
 - [Youbet-Task](https://github.com/YoubetDao/youbet-task) : A cutting-edge platform for automated and fair reward distribution to open source developers based on their contributions.
 
 ## Join Us in Building Exciting Tutorials!
+- [**Notes on Blockchain Technology and Applications by Xiao (2018)**](https://github.com/YoubetDao/Blockchain-Technology-and-Application-Notes-2018) - Newbies Welcome!
 - [Ethereum Smart Contract Guide](https://github.com/YoubetDao/Ethereum-Smart-Contract-Guide)
 - [Solana Internals](https://github.com/YoubetDao/solana-internals)
 - [ZKP Notes](https://github.com/YoubetDao/zkp-notes)
 - [Effective Solidity](https://github.com/YoubetDao/EffectiveSolidity)
-- [Notes on Blockchain Technology and Applications by Xiao (2018)](https://github.com/YoubetDao/Blockchain-Technology-and-Application-Notes-2018)
 - [All About Cryptography](https://github.com/wfnuser/all-about-cryptography)
 
 ## Hackathon Live Demo
