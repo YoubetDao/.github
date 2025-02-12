@@ -25,24 +25,12 @@ A team dedicated to creating fair, transparent, and effective reward systems for
 ## Our Vision: Rewarding Every Effort
 At YouBet, we believe that every contribution matters. Whether by building DApps using our SDK or rewarding open-source contributions in Youbet Task, our goal is simple: to reward every effort in the world.
 
-## Introduction
-- [You Bet: Goal-Driven Staking Is All You Need](https://youbetdao.github.io/introduction/introduction)
-- [Use Cases](https://youbetdao.github.io/introduction/use-cases)
-- [Vision](https://youbetdao.github.io/introduction/vision)
-
-## Contract
-- [How GDS works](https://youbetdao.github.io/contract/how-gds-works)
-- [ABI](https://youbetdao.github.io/contract/abi)
-
-## SDK
-- [Quickstart](https://youbetdao.github.io/sdk/quickstart)
-- [Api](https://youbetdao.github.io/sdk/api)
-
 ## Our Team
-- [微扰理论](https://github.com/wfnuser) - Founder - With great responsibility comes great power.
-- [c21](https://github.com/jerikchan) - FE - Digital Nomad.
-- [Amateur](https://github.com/Amateur0x1) - FE - .intp
+- [微扰理论](https://github.com/wfnuser) - Core Contributor - With great responsibility comes great power.
+- [c21](https://github.com/jerikchan) - Core Contributor - Digital Nomad.
+- [Amateur](https://github.com/Amateur0x1) - Core Contributor - .intp
 
+## Contact Us
 If you’re interested in being part of this mission, feel free to connect with us!  
 Contact us: [@element14_revival](https://t.me/element14_revival) on Telegram.  
 
