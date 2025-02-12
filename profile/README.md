@@ -1,5 +1,5 @@
 # YouBet
-A team dedicated to creating fair, transparent, and effective reward systems for every contributions in the world.
+A team dedicated to creating fair, transparent, and effective reward systems for every contributions in the world. Our team and products are supported by Openbuild, Hackquest, OpenCampus and Superfluid.
 
 ## Our Products
 ### Launched
