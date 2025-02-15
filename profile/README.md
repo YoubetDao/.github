@@ -1,6 +1,8 @@
 # YouBet
 A team dedicated to creating fair, transparent, and effective reward systems for every contributions in the world. Our team and products are supported by Openbuild, Hackquest, OpenCampus and Superfluid.
 
+🔥🔥🔥 [Web3 Study Group - The hard way](https://fvj06j66fob.feishu.cn/wiki/UBvqwipWRivC58k9gIycMXrVnYc)
+
 ## Our Products
 ### Launched
 - [According.Work](https://according.work/) : A cutting-edge platform for automated and fair reward distribution to open source developers based on their contributions.
