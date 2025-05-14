@@ -6,6 +6,7 @@ A team dedicated to creating fair, transparent, and effective reward systems for
 ## Our Products
 ### Launched
 - [According.Work](https://according.work/) : A cutting-edge platform for automated and fair reward distribution to open source developers based on their contributions.
+- [GoHacker](https://github.com/YoubetDao/GoHacker) : An AI Agent for future decentralized collaboration.
 - [YouBet-SDK](https://github.com/YoubetDao/youbet-sdk) : A groundbreaking programmable staking framework ensuring every effort is rewarded fairly.
   - [SDK in Action](https://37hedj53hqh8y.ahost.marscode.site/) - Live demonstration of sample code available in our SDK [source code](https://github.com/YoubetDao/youbet-sdk/tree/main/examples/simple-react). You can run it by yourself.
 
